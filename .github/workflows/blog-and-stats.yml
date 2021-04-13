@@ -6,7 +6,7 @@ on:
     branches:
       - main
 jobs:
-  # Update template with blogs and publish to main README.md
+  # Update template with blogs and Publish to main README.md
   update-template-with-blog:
     name: Update this repo's Template with latest blog posts
     runs-on: ubuntu-latest
@@ -17,18 +17,18 @@ jobs:
           readme_path: ./TEMPLATE.md
           feed_list: "https://aitikgupta.github.io/feed.xml"
       - uses: actions/checkout@v2
-          with:
-            fetch-depth: 0
-        - name: Generate README.md
-          uses: teoxoy/profile-readme-stats@master
-          with:
-            token: ${{ secrets.USER_TOKEN }}
-        - name: Update README.md
-          run: |
-            if [[ "$(git status --porcelain)" != "" ]]; then
-            git config user.name github-actions[bot]
-            git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-            git add .
-            git commit -m "Update README"
-            git push
-            fi
+        with:
+          fetch-depth: 0
+      - name: Generate README.md
+        uses: teoxoy/profile-readme-stats@master
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+      - name: Update README.md
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add .
+          git commit -m "Update README"
+          git push
+          fi
