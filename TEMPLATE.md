@@ -23,7 +23,6 @@ I frequently contribute to organisations based on computational Python.
 <i>Take a look at my repositories and let's get in touch!</i>
 <br>
 <br>
-<br>
 </p>
 
 <p align="center">
