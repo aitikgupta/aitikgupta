@@ -11,7 +11,10 @@ jobs:
     name: Update this repo's Template with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Update TEMPLATE.md
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           readme_path: ./TEMPLATE.md
@@ -25,6 +28,9 @@ jobs:
           token: ${{ secrets.USER_TOKEN }}
       - name: Update README.md
         run: |
+          git stash
+          git pull
+          git stash pop
           if [[ "$(git status --porcelain)" != "" ]]; then
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
