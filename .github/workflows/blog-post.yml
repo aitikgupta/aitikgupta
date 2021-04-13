@@ -3,6 +3,9 @@ on:
   schedule:
     # Runs every hour
     - cron: '0 1 * * *' # every 24 hours
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:

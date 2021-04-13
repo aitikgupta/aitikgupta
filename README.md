@@ -30,7 +30,7 @@ I joined GitHub <b>2</b> years ago.<br>
 Since then I've pushed <b>470</b> commits, opened <b>67</b> issues, submitted <b>83</b> pull requests, received <b>44</b> stars across <b>24</b> personal projects and contributed to <b>28</b> public repositories.
 </p>
 
-### Recent Posts
+### 📕 Recent Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
