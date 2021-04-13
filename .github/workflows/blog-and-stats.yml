@@ -11,26 +11,12 @@ jobs:
     name: Update this repo's Template with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Update TEMPLATE.md
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          readme_path: ./TEMPLATE.md
-          feed_list: "https://aitikgupta.github.io/feed.xml"
-      - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
       - name: Generate README.md
         uses: teoxoy/profile-readme-stats@master
         with:
           token: ${{ secrets.USER_TOKEN }}
       - name: Update README.md
         run: |
-          git stash
-          git pull
-          git stash pop
           if [[ "$(git status --porcelain)" != "" ]]; then
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
@@ -38,3 +24,13 @@ jobs:
           git commit -m "Update README"
           git push
           fi
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Update README.md
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://aitikgupta.github.io/feed.xml"
