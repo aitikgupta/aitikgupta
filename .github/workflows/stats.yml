@@ -1,9 +1,9 @@
 on:
   schedule:
-    - cron: '0 */12 * * *' # every 12 hours
+    - cron: '0 1 * * *' # every 24 hours
   push:
     branches:
-      - master
+      - main
 jobs:
   publish:
     runs-on: ubuntu-latest

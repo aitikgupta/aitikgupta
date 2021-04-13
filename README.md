@@ -1,16 +1,41 @@
-### Hi there 👋
+<h3 align="center"> Hey 👋</h3>
 
-<!--
-**aitikgupta/aitikgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm Aitik, a CS undergraduate in my 3rd year with a keen interest in open-source.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Website [Blogs/Projects/Contact]:
+<a href="https://aitikgupta.github.io/">https://aitikgupta.github.io/</a>
+</p>
+<br>
+<br>
+<table align="center">
+  <tr>
+    <td style="border-right: 1px solid #eeeeef;"> 💻 MLH Fellow'21 </td>
+    <td style="border-right: 1px solid #eeeeef;"> 👁️ Former ML Intern at <a href="https://www.mirrorar.io/">Code Heroku</a> </td>
+    <td> 🐛 Former Project Trainee at <a href="https://www.drdo.gov.in/home">DRDO</a>   </td>
+  </tr>
+</table>
+<br>
+<p align="center">
+I frequently contribute to organisations based on computational Python.
+<br>
+<i>Take a look at my repositories and let's get in touch!</i>
+<br>
+<br>
+<br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+I joined GitHub <b>2</b> years ago.<br>
+Since then I've pushed <b>466</b> commits, opened <b>67</b> issues, submitted <b>83</b> pull requests, received <b>44</b> stars across <b>24</b> personal projects and contributed to <b>28</b> public repositories.
+
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=aitikgupta"/>       
+</p>
+</p>
+
+![Aitik Gupta](./assets/bottom_header.svg)
+<br>
+</p>
