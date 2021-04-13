@@ -9,6 +9,7 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 <a href="https://aitikgupta.github.io/"> <b>https://aitikgupta.github.io/</b></a>
 </p>
 <br>
+
 <table align="center">
   <tr>
     <td style="border-right: 1px solid #eeeeef;"> 💻 MLH Fellow'21 </td>
@@ -17,6 +18,7 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
   </tr>
 </table>
 <br>
+
 <p align="center">
 I frequently contribute to organisations based on computational Python.
 <br>
@@ -27,16 +29,11 @@ I frequently contribute to organisations based on computational Python.
 
 <p align="center">
 I joined GitHub <b>2</b> years ago.<br>
-Since then I've pushed <b>481</b> commits, opened <b>67</b> issues, submitted <b>83</b> pull requests, received <b>44</b> stars across <b>24</b> personal projects and contributed to <b>28</b> public repositories.
+Since then I've pushed <b>482</b> commits, opened <b>67</b> issues, submitted <b>83</b> pull requests, received <b>44</b> stars across <b>24</b> personal projects and contributed to <b>28</b> public repositories.
 </p>
 
 ### 📕 Recent Posts
 <!-- BLOG-POST-LIST:START -->
-- [VSCode GitHub Projects](https://aitikgupta.github.io/vscode-github-projects/)
-- [swi-ml](https://aitikgupta.github.io/swi-ml/)
-- [Biases in Machines](https://aitikgupta.github.io/biases-in-machines/)
-- [ActiveNet](https://aitikgupta.github.io/ActiveNet/)
-- [E-RotaNet](https://aitikgupta.github.io/E-RotaNet/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
