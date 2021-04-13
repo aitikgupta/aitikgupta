@@ -34,7 +34,7 @@ Since then I've pushed <b>{{ COMMITS }}</b> commits, opened <b>{{ ISSUES }}</b> 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p  align="center">
+<p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aitikgupta"/>       
 </p>
 
