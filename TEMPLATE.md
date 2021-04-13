@@ -9,6 +9,7 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 <a href="https://aitikgupta.github.io/"> <b>https://aitikgupta.github.io/</b></a>
 </p>
 <br>
+
 <table align="center">
   <tr>
     <td style="border-right: 1px solid #eeeeef;"> 💻 MLH Fellow'21 </td>
@@ -17,6 +18,7 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
   </tr>
 </table>
 <br>
+
 <p align="center">
 I frequently contribute to organisations based on computational Python.
 <br>
