@@ -32,6 +32,11 @@ Since then I've pushed <b>{{ COMMITS }}</b> commits, opened <b>{{ ISSUES }}</b> 
 
 ### 📕 Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [VSCode GitHub Projects](https://aitikgupta.github.io/vscode-github-projects/)
+- [swi-ml](https://aitikgupta.github.io/swi-ml/)
+- [Biases in Machines](https://aitikgupta.github.io/biases-in-machines/)
+- [ActiveNet](https://aitikgupta.github.io/ActiveNet/)
+- [E-RotaNet](https://aitikgupta.github.io/E-RotaNet/)
 <!-- BLOG-POST-LIST:END -->
 
 <p  align="center">
