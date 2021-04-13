@@ -5,10 +5,9 @@ I'm Aitik, a CS undergraduate in my 3rd year with a keen interest in open-source
 </p>
 
 <p align="center">
-Website [Blogs/Projects/Contact]:
-<a href="https://aitikgupta.github.io/">https://aitikgupta.github.io/</a>
+Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
+<a href="https://aitikgupta.github.io/"> <b>https://aitikgupta.github.io/</b></a>
 </p>
-<br>
 <br>
 <table align="center">
   <tr>
@@ -29,13 +28,10 @@ I frequently contribute to organisations based on computational Python.
 
 <p align="center">
 I joined GitHub <b>2</b> years ago.<br>
-Since then I've pushed <b>466</b> commits, opened <b>67</b> issues, submitted <b>83</b> pull requests, received <b>44</b> stars across <b>24</b> personal projects and contributed to <b>28</b> public repositories.
-
+Since then I've pushed <b>467</b> commits, opened <b>67</b> issues, submitted <b>83</b> pull requests, received <b>44</b> stars across <b>24</b> personal projects and contributed to <b>28</b> public repositories.
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aitikgupta"/>       
 </p>
 </p>
 
 ![Aitik Gupta](./assets/bottom_header.svg)
-<br>
-</p>
