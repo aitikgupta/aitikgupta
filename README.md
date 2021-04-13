@@ -23,12 +23,11 @@ I frequently contribute to organisations based on computational Python.
 <i>Take a look at my repositories and let's get in touch!</i>
 <br>
 <br>
-<br>
 </p>
 
 <p align="center">
 I joined GitHub <b>2</b> years ago.<br>
-Since then I've pushed <b>467</b> commits, opened <b>67</b> issues, submitted <b>83</b> pull requests, received <b>44</b> stars across <b>24</b> personal projects and contributed to <b>28</b> public repositories.
+Since then I've pushed <b>468</b> commits, opened <b>67</b> issues, submitted <b>83</b> pull requests, received <b>44</b> stars across <b>24</b> personal projects and contributed to <b>28</b> public repositories.
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aitikgupta"/>       
 </p>
