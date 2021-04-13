@@ -1,3 +1,4 @@
+name: Update blogs and stats
 on:
   schedule:
     - cron: '0 1 * * *' # every 24 hours
@@ -5,6 +6,17 @@ on:
     branches:
       - main
 jobs:
+  # Update template with blog list
+  update-template-with-blog:
+    name: Update this repo's Template with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          readme_path: ./TEMPLATE.md
+          feed_list: "https://aitikgupta.github.io/feed.xml"
+  # Publish to main README.md
   publish:
     runs-on: ubuntu-latest
     steps:
@@ -17,7 +29,6 @@ jobs:
         token: ${{ secrets.USER_TOKEN }}
     - name: Update README.md
       run: |
-        git pull
         if [[ "$(git status --porcelain)" != "" ]]; then
         git config user.name github-actions[bot]
         git config user.email 41898282+github-actions[bot]@users.noreply.github.com

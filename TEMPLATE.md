@@ -29,6 +29,11 @@ I frequently contribute to organisations based on computational Python.
 I joined GitHub <b>{{ ACCOUNT_AGE }}</b> years ago.<br>
 Since then I've pushed <b>{{ COMMITS }}</b> commits, opened <b>{{ ISSUES }}</b> issues, submitted <b>{{ PULL_REQUESTS }}</b> pull requests, received <b>{{ STARS }}</b> stars across <b>{{ REPOSITORIES }}</b> personal projects and contributed to <b>{{ REPOSITORIES_CONTRIBUTED_TO }}</b> public repositories.
 </p>
+
+### 📕 Recent Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aitikgupta"/>       
 </p>
