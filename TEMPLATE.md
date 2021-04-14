@@ -12,7 +12,7 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 
 <table align="center">
   <tr>
-    <td style="border-right: 1px solid #eeeeef;"> 💻 MLH Fellow'21 </td>
+    <td style="border-right: 1px solid #eeeeef;"> 💻 MLH Fellow Spring'21 </td>
     <td style="border-right: 1px solid #eeeeef;"> 👁️ Former ML Intern at <a href="https://www.mirrorar.io/">Code Heroku</a> </td>
     <td> 🐛 Former Project Trainee at <a href="https://www.drdo.gov.in/home">DRDO</a>   </td>
   </tr>
