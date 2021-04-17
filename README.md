@@ -34,6 +34,11 @@ Since then I've pushed <b>505</b> commits, opened <b>73</b> issues, submitted <b
 
 ### 📕 Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [VSCode GitHub Projects](https://aitikgupta.github.io/vscode-github-projects/)
+- [swi-ml](https://aitikgupta.github.io/swi-ml/)
+- [Biases in Machines](https://aitikgupta.github.io/biases-in-machines/)
+- [ActiveNet](https://aitikgupta.github.io/ActiveNet/)
+- [E-RotaNet](https://aitikgupta.github.io/E-RotaNet/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
