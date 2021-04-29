@@ -29,16 +29,11 @@ I frequently contribute to organisations based on computational Python.
 
 <p align="center">
 I joined GitHub <b>2</b> years ago.<br>
-Since then I've pushed <b>507</b> commits, opened <b>75</b> issues, submitted <b>89</b> pull requests, received <b>45</b> stars across <b>24</b> personal projects and contributed to <b>30</b> public repositories.
+Since then I've pushed <b>510</b> commits, opened <b>75</b> issues, submitted <b>89</b> pull requests, received <b>45</b> stars across <b>24</b> personal projects and contributed to <b>30</b> public repositories.
 </p>
 
 ### 📕 Recent Posts
 <!-- BLOG-POST-LIST:START -->
-- [SocioMark](https://aitikgupta.github.io/sociomark/)
-- [VSCode GitHub Projects](https://aitikgupta.github.io/vscode-github-projects/)
-- [swi-ml](https://aitikgupta.github.io/swi-ml/)
-- [Biases in Machines](https://aitikgupta.github.io/biases-in-machines/)
-- [ActiveNet](https://aitikgupta.github.io/activenet/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
