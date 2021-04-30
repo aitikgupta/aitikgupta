@@ -32,7 +32,7 @@ I joined GitHub <b>{{ ACCOUNT_AGE }}</b> years ago.<br>
 Since then I've pushed <b>{{ COMMITS }}</b> commits, opened <b>{{ ISSUES }}</b> issues, submitted <b>{{ PULL_REQUESTS }}</b> pull requests, received <b>{{ STARS }}</b> stars across <b>{{ REPOSITORIES }}</b> personal projects and contributed to <b>{{ REPOSITORIES_CONTRIBUTED_TO }}</b> public repositories.
 </p>
 
-### 📕 Recent Posts
+### 📕 Recent Posts (on my website)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
