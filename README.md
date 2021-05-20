@@ -35,6 +35,11 @@ Since then I've pushed <b>522</b> commits, opened <b>78</b> issues, submitted <b
 
 ### 📕 Recent Posts (on my website)
 <!-- BLOG-POST-LIST:START -->
+- [GSoC’21 Introduction at Matplotlib](https://aitikgupta.github.io/gsoc-intro/)
+- [SocioMark](https://aitikgupta.github.io/sociomark/)
+- [VSCode GitHub Projects](https://aitikgupta.github.io/vscode-github-projects/)
+- [swi-ml](https://aitikgupta.github.io/swi-ml/)
+- [Biases in Machines](https://aitikgupta.github.io/biases-in-machines/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
