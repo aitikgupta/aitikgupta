@@ -12,6 +12,7 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 
 <table align="center">
   <tr>
+    <td style="border-right: 1px solid #eeeeef;"> 🌟 GSoC'21 at <a href="https://numfocus.org/programs/google-summer-code">NumFOCUS</a></td>
     <td style="border-right: 1px solid #eeeeef;"> 💻 <a href="http://fellowship.mlh.io/">MLH</a> Fellow Spring'21 </td>
     <td style="border-right: 1px solid #eeeeef;"> 👁️ Former ML Intern at <a href="https://www.rapidquest.in/">RapidQuest</a> </td>
     <td> 🐛 Former Project Trainee at <a href="https://www.drdo.gov.in/home">DRDO</a>   </td>
@@ -29,16 +30,11 @@ I majorly contribute to organisations based on computational Python.
 
 <p align="center">
 I joined GitHub <b>2</b> years ago.<br>
-Since then I've pushed <b>521</b> commits, opened <b>78</b> issues, submitted <b>93</b> pull requests, received <b>44</b> stars across <b>24</b> personal projects and contributed to <b>32</b> public repositories.
+Since then I've pushed <b>522</b> commits, opened <b>78</b> issues, submitted <b>93</b> pull requests, received <b>44</b> stars across <b>24</b> personal projects and contributed to <b>31</b> public repositories.
 </p>
 
 ### 📕 Recent Posts (on my website)
 <!-- BLOG-POST-LIST:START -->
-- [GSoC’21 Introduction at Matplotlib](https://aitikgupta.github.io/gsoc-intro/)
-- [SocioMark](https://aitikgupta.github.io/sociomark/)
-- [VSCode GitHub Projects](https://aitikgupta.github.io/vscode-github-projects/)
-- [swi-ml](https://aitikgupta.github.io/swi-ml/)
-- [Biases in Machines](https://aitikgupta.github.io/biases-in-machines/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
