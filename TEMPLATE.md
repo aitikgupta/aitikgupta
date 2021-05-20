@@ -12,6 +12,7 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 
 <table align="center">
   <tr>
+    <td style="border-right: 1px solid #eeeeef;"> 🌟 GSoC'21 at <a href="https://numfocus.org/programs/google-summer-code">NumFOCUS</a></td>
     <td style="border-right: 1px solid #eeeeef;"> 💻 <a href="http://fellowship.mlh.io/">MLH</a> Fellow Spring'21 </td>
     <td style="border-right: 1px solid #eeeeef;"> 👁️ Former ML Intern at <a href="https://www.rapidquest.in/">RapidQuest</a> </td>
     <td> 🐛 Former Project Trainee at <a href="https://www.drdo.gov.in/home">DRDO</a>   </td>
