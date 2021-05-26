@@ -34,7 +34,7 @@ I majorly contribute to organisations based on computational Python.
 
 <p align="center">
 I joined GitHub <b>{{ ACCOUNT_AGE }}</b> years ago.<br>
-Since then I've pushed <b>{{ COMMITS }}</b> commits, opened <b>{{ ISSUES }}</b> issues, submitted <b>{{ PULL_REQUESTS }}</b> pull requests, received <b>{{ STARS }}</b> stars across <b>{{ REPOSITORIES }}</b> personal projects and contributed to <b>{{ REPOSITORIES_CONTRIBUTED_TO }}</b> public repositories.
+Since then I've pushed <b>{{ COMMITS }}</b> commits, opened <b>{{ ISSUES }}</b> issues, submitted <b>{{ PULL_REQUESTS }}</b> pull requests, received <b>{{ STARS }}</b> stars across <b>{{ REPOSITORIES }}</b> personal projects, contributed to <b>{{ REPOSITORIES_CONTRIBUTED_TO }}</b> public repositories, and reviewed <b>{{ CODE_REVIEWS }}</b> pull requests.
 </p>
 
 ### 📕 Recent Posts (on my website)
