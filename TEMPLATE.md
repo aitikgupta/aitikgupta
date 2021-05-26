@@ -24,7 +24,12 @@ I majorly contribute to organisations based on computational Python.
 <br>
 <i>Take a look at my repositories and let's get in touch!</i>
 <br>
-<br>
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/aitik-gupta"><img alt="LinkedIn - /aitik-gupta" title="LinkedIn - /aitik-gupta" height="32" width="32" src="assets/linkedin.svg"></a>
+<a href="https://aitikgupta.github.io"><img alt="Personal Website - Aitik Gupta" title="Personal Website - Aitik Gupta" height="32" width="32" src="assets/website.svg"></a>
+<a href="https://twitter.com/aitikgupta"><img alt="Twitter - /aitikgupta" title="Twitter - /aitikgupta" height="32" width="32" src="assets/twitter.svg"></a>
 </p>
 
 <p align="center">
