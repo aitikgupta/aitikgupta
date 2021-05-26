@@ -24,31 +24,22 @@ I majorly contribute to organisations based on computational Python.
 <br>
 <i>Take a look at my repositories and let's get in touch!</i>
 <br>
-<br>
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/aitik-gupta"><img alt="LinkedIn - /aitik-gupta" title="LinkedIn - /aitik-gupta" height="32" width="32" src="assets/linkedin.svg"></a>
+<a href="https://aitikgupta.github.io"><img alt="Personal Website - Aitik Gupta" title="Personal Website - Aitik Gupta" height="32" width="32" src="assets/website.svg"></a>
+<a href="https://twitter.com/aitikgupta"><img alt="Twitter - /aitikgupta" title="Twitter - /aitikgupta" height="32" width="32" src="assets/twitter.svg"></a>
 </p>
 
 <p align="center">
 I joined GitHub <b>2</b> years ago.<br>
-Since then I've pushed <b>532</b> commits, opened <b>78</b> issues, submitted <b>93</b> pull requests, received <b>44</b> stars across <b>24</b> personal projects and contributed to <b>31</b> public repositories.
+Since then I've pushed <b>535</b> commits, opened <b>78</b> issues, submitted <b>93</b> pull requests, received <b>44</b> stars across <b>24</b> personal projects and contributed to <b>31</b> public repositories.
 </p>
 
 ### 📕 Recent Posts (on my website)
 <!-- BLOG-POST-LIST:START -->
-- [GSoC’21 Introduction at Matplotlib](https://aitikgupta.github.io/gsoc-intro/)
-- [SocioMark](https://aitikgupta.github.io/sociomark/)
-- [VSCode GitHub Projects](https://aitikgupta.github.io/vscode-github-projects/)
-- [swi-ml](https://aitikgupta.github.io/swi-ml/)
-- [Biases in Machines](https://aitikgupta.github.io/biases-in-machines/)
 <!-- BLOG-POST-LIST:END -->
-
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#20235](https://github.com/matplotlib/matplotlib/issues/20235) in [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)
-2. 🗣 Commented on [#20235](https://github.com/matplotlib/matplotlib/issues/20235) in [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)
-3. 🗣 Commented on [#20235](https://github.com/matplotlib/matplotlib/issues/20235) in [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)
-4. 🗣 Commented on [#20235](https://github.com/matplotlib/matplotlib/issues/20235) in [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)
-5. 🗣 Commented on [#20235](https://github.com/matplotlib/matplotlib/issues/20235) in [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)
-<!--END_SECTION:activity-->
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aitikgupta"/>       
