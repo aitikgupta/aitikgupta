@@ -1,7 +1,7 @@
 <h3 align="center"> Hey! 👋</h3>
 
 <p align="center">
-Aitik this side, an undergraduate in my junior year with a keen interest in open-source.
+Aitik this side, a budding developer who's all about software engineering!
 </p>
 
 <p align="center">
@@ -23,15 +23,13 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 I majorly contribute to organisations based on computational Python.
 <br>
 <i>Take a look at my repositories and let's get in touch!</i>
-<br>
-</p>
-
+</p><hr>
 <p align="center">
-<a href="https://linkedin.com/in/aitik-gupta"><img alt="LinkedIn - /aitik-gupta" title="LinkedIn - /aitik-gupta" height="32" width="32" src="assets/linkedin.svg"></a>
+<a href="https://linkedin.com/in/aitikgupta"><img alt="LinkedIn - /aitikgupta" title="LinkedIn - /aitikgupta" height="32" width="32" src="assets/linkedin.svg"></a>
 <a href="https://aitikgupta.github.io"><img alt="Personal Website - Aitik Gupta" title="Personal Website - Aitik Gupta" height="32" width="32" src="assets/website.svg"></a>
-<a href="https://twitter.com/aitikgupta"><img alt="Twitter - /aitikgupta" title="Twitter - /aitikgupta" height="32" width="32" src="assets/twitter.svg"></a>
-</p>
-
+<a href="https://twitter.com/aitikgupta"><img alt="Twitter - /aitikgupta" title="Twitter - /aitikgupta" height="32" width="32" src="assets/twitter.svg"></a><br/>
+<samp>PS: I go by <ins>@aitikgupta</ins> throughout the web! \o/</samp>
+</p><hr>
 <p align="center">
 I joined GitHub <b>{{ ACCOUNT_AGE }}</b> years ago.<br>
 Since then I've pushed <b>{{ COMMITS }}</b> commits, opened <b>{{ ISSUES }}</b> issues, submitted <b>{{ PULL_REQUESTS }}</b> pull requests, received <b>{{ STARS }}</b> stars across <b>{{ REPOSITORIES }}</b> personal projects, contributed to <b>{{ REPOSITORIES_CONTRIBUTED_TO }}</b> public repositories, and reviewed <b>{{ CODE_REVIEWS }}</b> pull requests.
