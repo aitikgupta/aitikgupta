@@ -6,7 +6,7 @@ Aitik this side, a budding developer who's all about software engineering!
 
 <p align="center">
 Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
-<a href="https://aitikgupta.github.io/"> <b>https://aitikgupta.github.io/</b></a>
+<a href="https://aitikgupta.com/"> <b>aitikgupta.com/</b></a>
 </p>
 <br>
 
@@ -26,7 +26,7 @@ I majorly contribute to organisations based on computational Python.
 </p><hr>
 <p align="center">
 <a href="https://linkedin.com/in/aitikgupta"><img alt="LinkedIn - /aitikgupta" title="LinkedIn - /aitikgupta" height="32" width="32" src="assets/linkedin.svg"></a>
-<a href="https://aitikgupta.github.io"><img alt="Personal Website - Aitik Gupta" title="Personal Website - Aitik Gupta" height="32" width="32" src="assets/website.svg"></a>
+<a href="https://aitikgupta.com/"><img alt="Personal Website - Aitik Gupta" title="Personal Website - Aitik Gupta" height="32" width="32" src="assets/website.svg"></a>
 <a href="https://twitter.com/aitikgupta"><img alt="Twitter - /aitikgupta" title="Twitter - /aitikgupta" height="32" width="32" src="assets/twitter.svg"></a><br/>
 <samp>PS: I go by <ins>@aitikgupta</ins> throughout the web! \o/</samp>
 </p><hr>
