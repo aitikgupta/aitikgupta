@@ -6,7 +6,7 @@ Aitik this side, a budding developer who's all about software engineering!
 
 <p align="center">
 Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
-<a href="https://aitikgupta.github.io/"> <b>https://aitikgupta.github.io/</b></a>
+<a href="https://aitikgupta.com/"> <b>aitikgupta.com/</b></a>
 </p>
 <br>
 
@@ -26,22 +26,17 @@ I majorly contribute to organisations based on computational Python.
 </p><hr>
 <p align="center">
 <a href="https://linkedin.com/in/aitikgupta"><img alt="LinkedIn - /aitikgupta" title="LinkedIn - /aitikgupta" height="32" width="32" src="assets/linkedin.svg"></a>
-<a href="https://aitikgupta.github.io"><img alt="Personal Website - Aitik Gupta" title="Personal Website - Aitik Gupta" height="32" width="32" src="assets/website.svg"></a>
+<a href="https://aitikgupta.com/"><img alt="Personal Website - Aitik Gupta" title="Personal Website - Aitik Gupta" height="32" width="32" src="assets/website.svg"></a>
 <a href="https://twitter.com/aitikgupta"><img alt="Twitter - /aitikgupta" title="Twitter - /aitikgupta" height="32" width="32" src="assets/twitter.svg"></a><br/>
 <samp>PS: I go by <ins>@aitikgupta</ins> throughout the web! \o/</samp>
 </p><hr>
 <p align="center">
 I joined GitHub <b>2</b> years ago.<br>
-Since then I've pushed <b>539</b> commits, opened <b>78</b> issues, submitted <b>94</b> pull requests, received <b>46</b> stars across <b>24</b> personal projects, contributed to <b>31</b> public repositories, and reviewed <b>74</b> pull requests.
+Since then I've pushed <b>541</b> commits, opened <b>78</b> issues, submitted <b>94</b> pull requests, received <b>47</b> stars across <b>24</b> personal projects, contributed to <b>31</b> public repositories, and reviewed <b>74</b> pull requests.
 </p>
 
 ### 📕 Recent Posts (on my website)
 <!-- BLOG-POST-LIST:START -->
-- [GSoC’21 Introduction at Matplotlib](https://aitikgupta.github.io/gsoc-intro/)
-- [SocioMark](https://aitikgupta.github.io/sociomark/)
-- [VSCode GitHub Projects](https://aitikgupta.github.io/vscode-github-projects/)
-- [swi-ml](https://aitikgupta.github.io/swi-ml/)
-- [Biases in Machines](https://aitikgupta.github.io/biases-in-machines/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
