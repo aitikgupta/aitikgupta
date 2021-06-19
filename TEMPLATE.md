@@ -6,7 +6,7 @@ Aitik this side, a budding developer who's all about software engineering!
 
 <p align="center">
 Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
-<a href="https://aitikgupta.com/"> <b>aitikgupta.com/</b></a>
+<ins><samp><a href="https://aitikgupta.com/"> <b>aitikgupta.com/</b></a></samp></ins>
 </p>
 <br>
 
@@ -20,8 +20,7 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 <br>
 
 <p align="center">
-I majorly contribute to organisations based on computational Python.
-<br>
+I wield Python to build, but JavaScript to explore.<br>
 <i>Take a look at my repositories and let's get in touch!</i>
 </p><hr>
 <p align="center">
