@@ -36,11 +36,6 @@ Since then I've pushed <b>571</b> commits, opened <b>81</b> issues, submitted <b
 
 ### 📕 Recent Posts (on my website)
 <!-- BLOG-POST-LIST:START -->
-- [GSoC’21: Mid-Term Progress](https://aitikgupta.com/gsoc-mid/)
-- [GSoC’21: Introduction at Matplotlib](https://aitikgupta.com/gsoc-intro/)
-- [SocioMark](https://aitikgupta.com/sociomark/)
-- [VSCode GitHub Projects](https://aitikgupta.com/vscode-github-projects/)
-- [swi-ml](https://aitikgupta.com/swi-ml/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
