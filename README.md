@@ -31,16 +31,11 @@ I wield Python to build, but JavaScript to explore.<br>
 </p><hr>
 <p align="center">
 I joined GitHub <b>2</b> years ago.<br>
-Since then I've pushed <b>610</b> commits, opened <b>81</b> issues, submitted <b>120</b> pull requests, received <b>51</b> stars across <b>25</b> personal projects, contributed to <b>31</b> public repositories, and reviewed <b>76</b> pull requests.
+Since then I've pushed <b>610</b> commits, opened <b>81</b> issues, submitted <b>120</b> pull requests, received <b>51</b> stars across <b>25</b> personal projects, contributed to <b>30</b> public repositories, and reviewed <b>76</b> pull requests.
 </p>
 
 ### 📕 Recent Posts (on my website)
 <!-- BLOG-POST-LIST:START -->
-- [GSoC’21: Quarter Progress](https://aitikgupta.com/gsoc-quarter/)
-- [GSoC’21: Pre-Quarter Progress](https://aitikgupta.com/gsoc-pre-quarter/)
-- [GSoC’21: Mid-Term Progress](https://aitikgupta.com/gsoc-mid/)
-- [GSoC’21: Introduction at Matplotlib](https://aitikgupta.com/gsoc-intro/)
-- [SocioMark](https://aitikgupta.com/sociomark/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
