@@ -13,9 +13,9 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 <table align="center">
   <tr>
     <td style="border-right: 1px solid #eeeeef;"> 🐦 Backend Intern'21 at <a href="https://fampay.in/">FamPay</a></td>
-    <td style="border-right: 1px solid #eeeeef;"> 🛫 SWE Intern'21 at <a href="https://retrera.com/">Retrera</a> </td>
-    <td style="border-right: 1px solid #eeeeef;"> 🌟 GSoC'21 at <a href="https://numfocus.org/programs/google-summer-code">NumFOCUS</a></td>
+    <td style="border-right: 1px solid #eeeeef;"> 🌟 GSoC'21 at <a href="https://summerofcode.withgoogle.com/projects/#5941691627864064">Matplotlib</a></td>
     <td style="border-right: 1px solid #eeeeef;"> 💻 <a href="http://fellowship.mlh.io/">MLH</a> Fellow Spring'21 </td>
+    <td style="border-right: 1px solid #eeeeef;"> 🛫 SWE Intern'21 at <a href="https://retrera.com/">Retrera</a> </td>
     <td> 👁️ SWE Intern'20 at <a href="https://www.rapidquest.in/">RapidQuest</a> </td>
   </tr>
 </table>
