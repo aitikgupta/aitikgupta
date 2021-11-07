@@ -1,7 +1,7 @@
 name: Update blogs and stats
 on:
   schedule:
-    - cron: '0 1 * * *' # every 24 hours
+    - cron: '0 0 1 * *' # every month
   push:
     branches:
       - main
