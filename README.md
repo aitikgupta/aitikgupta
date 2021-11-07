@@ -88,16 +88,11 @@ I wield Python and C++ to build; JavaScript to explore withal.<br>
 </p><hr>
 <p align="center">
 I joined GitHub <b>3</b> years ago.<br>
-Since then I've pushed <b>635</b> commits, opened <b>81</b> issues, submitted <b>108</b> pull requests, received <b>50</b> stars across <b>26</b> personal projects, contributed to <b>21</b> public repositories, and reviewed <b>81</b> pull requests.
+Since then I've pushed <b>636</b> commits, opened <b>81</b> issues, submitted <b>108</b> pull requests, received <b>50</b> stars across <b>26</b> personal projects, contributed to <b>20</b> public repositories, and reviewed <b>81</b> pull requests.
 </p>
 
 ### 📕 Recent Posts (on my website)
 <!-- BLOG-POST-LIST:START -->
-- [GSoC’21: Final Report](https://aitikgupta.com/gsoc-final/)
-- [GSoC’21: Quarter Progress](https://aitikgupta.com/gsoc-quarter/)
-- [GSoC’21: Pre-Quarter Progress](https://aitikgupta.com/gsoc-pre-quarter/)
-- [GSoC’21: Mid-Term Progress](https://aitikgupta.com/gsoc-mid/)
-- [GSoC’21: Introduction at Matplotlib](https://aitikgupta.com/gsoc-intro/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
