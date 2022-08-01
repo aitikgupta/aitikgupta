@@ -93,6 +93,11 @@ Since then I've pushed <b>638</b> commits, opened <b>82</b> issues, submitted <b
 
 ### 📕 Recent Posts (on my website)
 <!-- BLOG-POST-LIST:START -->
+- [My Bread &amp;amp; Butter in Japan](https://aitikgupta.com/mercari-japan/)
+- [GSoC’21: Final Report](https://aitikgupta.com/gsoc-final/)
+- [GSoC’21: Quarter Progress](https://aitikgupta.com/gsoc-quarter/)
+- [GSoC’21: Pre-Quarter Progress](https://aitikgupta.com/gsoc-pre-quarter/)
+- [GSoC’21: Mid-Term Progress](https://aitikgupta.com/gsoc-mid/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
