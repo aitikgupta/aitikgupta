@@ -1,7 +1,7 @@
 <h3 align="center"> Hey! 👋</h3>
 
 <p align="center">
-Aitik this side, a budding developer who's all about software engineering!
+Aitik this side ~ I do software engineering with mechanical keyboards.
 </p>
 
 <p align="center">
@@ -12,6 +12,18 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 
 <table align="center">
   <tr>
+    <td style="border-right: 1px solid #eeeeef;">
+      <table>
+        <tr>
+          <td>
+            <img alt="Mercari" title="Mercari" style="height:20px;" src="assets/mercari.png">
+          </td>
+          <td>
+            SWE Intern'22 at <a href="">Mercari</a>
+          </td>
+        </tr>
+      </table>
+    </td>
     <td style="border-right: 1px solid #eeeeef;">
       <table>
         <tr>
@@ -77,8 +89,8 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 <br>
 
 <p align="center">
-I wield Python and C++ to build; JavaScript to explore withal.<br>
-<i>Take a look at my contributions and let's talk!</i>
+I gain experience by implementing, optimizing and maintaining the backend for product features.<br>
+<i>I wield Python, Golang and C++.</i>
 </p><hr>
 <p align="center">
 <a href="https://linkedin.com/in/aitikgupta"><img alt="LinkedIn - /aitikgupta" title="LinkedIn - /aitikgupta" height="32" width="32" src="assets/linkedin.svg"></a>
