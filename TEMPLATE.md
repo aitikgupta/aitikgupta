@@ -1,7 +1,7 @@
 <h3 align="center"> Hey! 👋</h3>
 
 <p align="center">
-Aitik this side ~ I do software engineering with mechanical keyboards.
+Aitik this side ~ I do software engineering.
 </p>
 
 <p align="center">
@@ -12,6 +12,42 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 
 <table align="center">
   <tr>
+    <td style="border-right: 1px solid #eeeeef;">
+      <table>
+        <tr>
+          <td>
+            <img alt="Mercari" title="Mercari" style="height:20px;" src="assets/mercari.png">
+          </td>
+          <td>
+            SWE at <a href="">Mercari</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;">
+      <table>
+        <tr>
+          <td>
+            <img alt="Headout" title="Headout" style="height:20px;" src="assets/headout.webp">
+          </td>
+          <td>
+            SWE Intern'23 at <a href="">Headout</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;">
+      <table>
+        <tr>
+          <td>
+            <img alt="BharatX" title="BharatX" style="height:20px;" src="assets/bharatx.webp">
+          </td>
+          <td>
+            SWE Intern'23 at <a href="">BharatX</a>
+          </td>
+        </tr>
+      </table>
+    </td>
     <td style="border-right: 1px solid #eeeeef;">
       <table>
         <tr>
@@ -89,7 +125,7 @@ Website [<b>Blogs</b>/<b>Projects</b>/<b>Contact</b>]:
 <br>
 
 <p align="center">
-I gain experience by implementing, optimizing and maintaining the backend for product features.<br>
+Beyond coding, I share my journey through <a href="https://aitikgupta.github.io/blog>blogging</a>, take the stage for theater performances, jam on my ukulele, and casually compete in e-sports!<br>
 <i>I wield Python, Golang and C++.</i>
 </p><hr>
 <p align="center">
