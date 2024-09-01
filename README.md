@@ -136,16 +136,11 @@ Beyond coding, I share my journey through <a href="https://aitikgupta.github.io/
 </p><hr>
 <p align="center">
 I joined GitHub <b>5</b> years ago.<br>
-Since then I've pushed <b>646</b> commits, opened <b>82</b> issues, submitted <b>109</b> pull requests, received <b>56</b> stars across <b>26</b> personal projects, contributed to <b>0</b> public repositories, and reviewed <b>84</b> pull requests.
+Since then I've pushed <b>646</b> commits, opened <b>82</b> issues, submitted <b>109</b> pull requests, received <b>57</b> stars across <b>26</b> personal projects, contributed to <b>0</b> public repositories, and reviewed <b>84</b> pull requests.
 </p>
 
 ### 📕 Recent Posts (on my website)
 <!-- BLOG-POST-LIST:START -->
-- [Three Pivotal Decisions + Tech-Expeditions](https://aitikgupta.com/three-pivotal-decisions/)
-- [My Bread &amp;amp; Butter in Japan](https://aitikgupta.com/mercari-japan/)
-- [GSoC’21: Final Report](https://aitikgupta.com/gsoc-final/)
-- [GSoC’21: Quarter Progress](https://aitikgupta.com/gsoc-quarter/)
-- [GSoC’21: Pre-Quarter Progress](https://aitikgupta.com/gsoc-pre-quarter/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
