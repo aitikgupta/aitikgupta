@@ -141,6 +141,11 @@ Since then I've pushed <b>506</b> commits, opened <b>83</b> issues, submitted <b
 
 ### 📕 Recent Posts (on my website)
 <!-- BLOG-POST-LIST:START -->
+- [Three Pivotal Decisions + Tech-Expeditions](https://aitikgupta.com/three-pivotal-decisions/)
+- [My Bread &amp;amp; Butter in Japan](https://aitikgupta.com/mercari-japan/)
+- [GSoC’21: Final Report](https://aitikgupta.com/gsoc-final/)
+- [GSoC’21: Quarter Progress](https://aitikgupta.com/gsoc-quarter/)
+- [GSoC’21: Pre-Quarter Progress](https://aitikgupta.com/gsoc-pre-quarter/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
